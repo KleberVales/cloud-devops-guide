@@ -25,6 +25,7 @@
 ### Segurança no Container Engine for Kubernetes
 - Review Container Engine for Kubernetes and important containerization and Kubernetes principles
 - Create, manage, and optimize Kubernetes clusters in the OCI environment
+- Understand cluster types, cluster access, and other management activities such as deployments, networking, storage, and observability
 
 ## 🔹 Projetos com OCI DevOps
 ### Projeto OCI DevOps: Conceitos Básicos
