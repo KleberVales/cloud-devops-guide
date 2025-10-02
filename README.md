@@ -10,3 +10,4 @@
 ### Configurando o acesso ao Cluster OKE
 ### Trabalhando com virtual nodes no OKE
 ### Trabalhando com Nós Autogerenciados
+### Gerenciando implantações no Kubernetes
