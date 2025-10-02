@@ -26,3 +26,5 @@
 ### OCI Resource Manager
 
 ## 🔹 Segurança e Observabilidade
+### DevSecOps
+
