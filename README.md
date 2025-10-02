@@ -47,4 +47,5 @@
 ### Serviços de Observabilidade
 - Explain the concepts of DevOps measurement
 - Monitor metrics using OCI Monitoring Service
+- Analyze and manage logs with OCI Logging Service
 
