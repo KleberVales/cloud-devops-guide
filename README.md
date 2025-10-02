@@ -11,6 +11,7 @@
 
 
 ### Fundamentos de Kubernetes
+- Create and manage Oracle Cloud Infrastructure Container Instances
 
 ## 🔹 Oracle Kubernetes Engine (OKE)
 ### OKE e trabalho com manage nodes
