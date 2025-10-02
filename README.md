@@ -32,6 +32,8 @@
 
 ## 🔹 Infraestrutura como Código
 ### Terraform: Infraestrutura como Código
+- Deploy infrastructure using Infrastructure as Code and Terraform on OCI
+  
 ### OCI Resource Manager
 
 ## 🔹 Segurança e Observabilidade
