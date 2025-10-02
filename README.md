@@ -35,6 +35,7 @@
 - Deploy infrastructure using Infrastructure as Code and Terraform on OCI
   
 ### OCI Resource Manager
+- Streamline infrastructure deployment and configuration with OCI Resource Manager
 
 ## 🔹 Segurança e Observabilidade
 ### DevSecOps
