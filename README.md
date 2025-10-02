@@ -24,6 +24,7 @@
 ### Administrando e Gerenciando Clusters OKE
 ### Segurança no Container Engine for Kubernetes
 - Review Container Engine for Kubernetes and important containerization and Kubernetes principles
+- Create, manage, and optimize Kubernetes clusters in the OCI environment
 
 ## 🔹 Projetos com OCI DevOps
 ### Projeto OCI DevOps: Conceitos Básicos
