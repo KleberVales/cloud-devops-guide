@@ -27,4 +27,5 @@
 
 ## 🔹 Segurança e Observabilidade
 ### DevSecOps
+### Serviços de Observabilidade
 
