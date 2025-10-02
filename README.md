@@ -39,5 +39,7 @@
 
 ## 🔹 Segurança e Observabilidade
 ### DevSecOps
+- Configure security using DevSecOps best practices in OCI
+  
 ### Serviços de Observabilidade
 
