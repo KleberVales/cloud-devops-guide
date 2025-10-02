@@ -7,6 +7,7 @@
 
 ### Microsserviços e Conteinerização
 - Explain and Implement Microservices Architecture
+- Identify the need for containerization and create containers using Docker
 
 
 ### Fundamentos de Kubernetes
