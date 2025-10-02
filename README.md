@@ -27,6 +27,7 @@
 - Create, manage, and optimize Kubernetes clusters in the OCI environment
 - Understand cluster types, cluster access, and other management activities such as deployments, networking, storage, and observability
 - Perform scaling, cluster upgrades, use admission controllers, and execute applications on specialized nodes
+- Evaluate and configure security within OCI OKE service
 
 ## 🔹 Projetos com OCI DevOps
 ### Projeto OCI DevOps: Conceitos Básicos
