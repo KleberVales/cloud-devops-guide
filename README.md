@@ -45,4 +45,5 @@
 - Evaluate and configure security for container images used in OCI
   
 ### Serviços de Observabilidade
+- Explain the concepts of DevOps measurement
 
