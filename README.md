@@ -3,6 +3,7 @@
 ## 🔹 Fundamentos
 ### Introdução ao DevOps
 - Demonstrate proficiency in DevOps practices, tools, and solutions through real-world problem-solving
+- Automate the software development life cycle using OCI DevOps Service
 
 ### Microsserviços e Conteinerização
 - Explain and Implement Microservices Architecture
