@@ -6,6 +6,9 @@
 - Demonstrate proficiency in DevOps practices, tools, and solutions through real-world problem-solving
 
 ### Microsserviços e Conteinerização
+- Explain and Implement Microservices Architecture
+
+
 ### Fundamentos de Kubernetes
 
 ## 🔹 Oracle Kubernetes Engine (OKE)
