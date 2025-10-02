@@ -5,6 +5,7 @@
 - Demonstrate proficiency in DevOps practices, tools, and solutions through real-world problem-solving
 - Automate the software development life cycle using OCI DevOps Service
 - Configure and manage source code in OCI DevOps Code Repositories
+- Analyze and create artifacts for automated deployment to different environments
 
 ### Microsserviços e Conteinerização
 - Explain and Implement Microservices Architecture
