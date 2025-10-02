@@ -17,3 +17,4 @@
 
 ## 🔹 Projetos com OCI DevOps
 ### Projeto OCI DevOps: Conceitos Básicos
+### Projeto OCI DevOps: Integração Contínua e Entrega Contínua (CI-CD)
