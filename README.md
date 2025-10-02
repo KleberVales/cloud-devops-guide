@@ -22,3 +22,4 @@
 ### Projeto OCI DevOps: Implantações com Helm Charts
 
 ## 🔹 Infraestrutura como Código
+### Terraform: Infraestrutura como Código
