@@ -15,6 +15,8 @@
 
 ## 🔹 Oracle Kubernetes Engine (OKE)
 ### OKE e trabalho com manage nodes
+- Create and manage Oracle Cloud Infrastructure Registry OCIR
+  
 ### Configurando o acesso ao Cluster OKE
 ### Trabalhando com virtual nodes no OKE
 ### Trabalhando com Nós Autogerenciados
