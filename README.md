@@ -2,7 +2,6 @@
 
 ## 🔹 Fundamentos
 ### Introdução ao DevOps
-- Understand DevOps principles and effectively work with containerization services
 - Demonstrate proficiency in DevOps practices, tools, and solutions through real-world problem-solving
 
 ### Microsserviços e Conteinerização
