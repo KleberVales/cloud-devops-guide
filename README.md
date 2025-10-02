@@ -1,5 +1,6 @@
 # cloud-devops-guide
 
-## Introdução ao DevOps
-## Microsserviços e Conteinerização
-## Fundamentos de Kubernetes
+## Fundamentos
+### Introdução ao DevOps
+### Microsserviços e Conteinerização
+### Fundamentos de Kubernetes
