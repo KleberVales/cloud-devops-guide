@@ -7,3 +7,4 @@
 
 ## 🔹 Oracle Kubernetes Engine (OKE)
 ### OKE e trabalho com manage nodes
+### Configurando o acesso ao Cluster OKE
