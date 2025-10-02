@@ -1,6 +1,8 @@
 # cloud-devops-guide
 
-## Fundamentos
+## 🔹 Fundamentos
 ### Introdução ao DevOps
 ### Microsserviços e Conteinerização
 ### Fundamentos de Kubernetes
+
+## 🔹 Oracle Kubernetes Engine (OKE)
