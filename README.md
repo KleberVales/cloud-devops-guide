@@ -11,3 +11,4 @@
 ### Trabalhando com virtual nodes no OKE
 ### Trabalhando com Nós Autogerenciados
 ### Gerenciando implantações no Kubernetes
+### Configurando Armazenamento para Clusters Kubernetes no OKE
