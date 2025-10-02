@@ -42,6 +42,7 @@
 - Configure security using DevSecOps best practices in OCI
 - Create and manage encryption keys and secrets in OCI Vault
 - Evaluate and configure security within the OCI DevOps CI/CD pipelines
+- Evaluate and configure security for container images used in OCI
   
 ### Serviços de Observabilidade
 
