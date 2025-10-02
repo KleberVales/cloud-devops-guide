@@ -2,6 +2,9 @@
 
 ## 🔹 Fundamentos
 ### Introdução ao DevOps
+- Understand DevOps principles and effectively work with containerization services
+
+
 ### Microsserviços e Conteinerização
 ### Fundamentos de Kubernetes
 
