@@ -7,6 +7,7 @@
 - Configure and manage source code in OCI DevOps Code Repositories
 - Analyze and create artifacts for automated deployment to different environments
 - Evaluate and Configure Build and Deployment Pipelines
+- Create and configure various deployment strategies
 
 ### Microsserviços e Conteinerização
 - Explain and Implement Microservices Architecture
