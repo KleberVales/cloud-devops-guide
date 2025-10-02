@@ -23,3 +23,4 @@
 
 ## 🔹 Infraestrutura como Código
 ### Terraform: Infraestrutura como Código
+### OCI Resource Manager
