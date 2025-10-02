@@ -40,6 +40,7 @@
 ## 🔹 Segurança e Observabilidade
 ### DevSecOps
 - Configure security using DevSecOps best practices in OCI
+- Create and manage encryption keys and secrets in OCI Vault
   
 ### Serviços de Observabilidade
 
