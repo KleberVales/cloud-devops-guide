@@ -23,6 +23,7 @@
 ### Configurando Armazenamento para Clusters Kubernetes no OKE
 ### Administrando e Gerenciando Clusters OKE
 ### Segurança no Container Engine for Kubernetes
+- Review Container Engine for Kubernetes and important containerization and Kubernetes principles
 
 ## 🔹 Projetos com OCI DevOps
 ### Projeto OCI DevOps: Conceitos Básicos
